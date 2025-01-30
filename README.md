@@ -5,7 +5,7 @@
 
 
 ## 🛠 Навыки
-Python, Microsoft SQL Server, Tableau
+Python, Microsoft SQL Server, Tableau, jupyter notebook
 
 
 ## Проект 1
